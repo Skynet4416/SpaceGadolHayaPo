@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3756cf91796d644bb4bfc9cdf0e65f, type: 3}
+  m_Name: 4 5 Summon
+  m_EditorClassIdentifier: 
+  enemies:
+  - prefab: {fileID: 4813357941878249164, guid: 5781f627c67c4bb42ae5adcec1874140,
+      type: 3}
+    position: {x: 0, y: 4, z: 0}
+  - prefab: {fileID: 6960891813497874639, guid: 5944249299c6c594a9a277b24bbccc9d,
+      type: 3}
+    position: {x: 5, y: 5, z: 0}
